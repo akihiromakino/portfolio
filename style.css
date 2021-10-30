@@ -1,0 +1,169 @@
+body{
+  background-color: rgb(237, 241, 248);
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  height: 50px;
+  background-color: white;
+}
+
+.header-container{
+  text-align: center;
+  line-height: 50px;
+}
+
+.header-container a{
+  display: inline-block;
+  padding: 0px 30px 0px 30px;
+  font-size: 15px;
+  color: black;
+
+}
+
+.header-list{
+  font-family: 'Amatic SC', cursive;
+}
+
+.first-wrapper{
+  height: 655px;
+}
+
+.fw-images{
+  display: block;
+  position: relative;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.fw-images p{
+  font-size: 30px;
+  font-family: 'Amatic SC', cursive;
+  position: absolute;
+  color: white;
+  top: 45%;
+  left: 36%;
+  letter-spacing: 6px;
+}
+
+.second-wrapper{
+  height: 700px;
+}
+
+.sw-title{
+  margin-top: 70px;
+  background-color:white;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 5px;
+  font-family: 'Amatic SC', cursive;
+}
+
+.sw-images{
+  position: relative;
+}
+
+.sw-images p{
+  position: absolute;
+  color: black;
+  top: 45%;
+  left: 10%;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  letter-spacing: 5px;
+  font-size: 13px;
+}
+
+.sw-images a{
+  position: absolute;
+  top: 70%;
+  left: 16%;
+  padding: 10px 50px;
+  letter-spacing: 5px;
+  font-size: 15px;
+  color: black;
+}
+
+.third-wrapper{
+  height: 450px;
+}
+
+.tw-title{
+  margin-top: 150px;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 5px;
+  font-family: 'Amatic SC', cursive;
+}
+
+.tw-text{
+  text-align: center;
+  margin-top: 400px;
+  letter-spacing: 5px;
+  font-size: 15px;
+}
+
+.tw-text a{
+  display: inline-block;
+  margin-top: 50px;
+  color: black;
+}
+
+.force-wrapper{
+  height: 500px;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.fw-title{
+  margin-top: 150px;
+  font-size: 30px;
+  letter-spacing: 5px;
+  font-family: 'Amatic SC', cursive;
+}
+
+.force-wrapper{
+  height:600px;
+}
+
+.fw-title{
+  margin: 300px 0px 100px 0px;
+}
+
+.fw-message{
+  letter-spacing: 5px;
+  font-size: 15px;
+  margin-bottom: 100px;
+}
+
+.force-wrapper a{
+  letter-spacing: 5px;
+  font-size: 15px;
+  color: black;
+}
+
+footer{
+  height: 50px;
+  background-color: white;
+  line-height: 50px;
+  font-size: 15px;
+  text-align: center;
+}
+
+footer a{
+  color: black;
+  padding: 0px 30px 0px 30px;
+  font-family: 'Amatic SC', cursive;
+}
+
+
+
+
+
+
+
+
+
