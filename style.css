@@ -10,6 +10,9 @@ body{
 header{
   height: 50px;
   background-color: white;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
 }
 
 .header-container{
@@ -158,12 +161,3 @@ footer a{
   padding: 0px 30px 0px 30px;
   font-family: 'Amatic SC', cursive;
 }
-
-
-
-
-
-
-
-
-
