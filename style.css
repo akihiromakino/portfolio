@@ -10,9 +10,6 @@ body{
 header{
   height: 50px;
   background-color: white;
-  position: sticky;
-  position: -webkit-sticky;
-  top: 0;
 }
 
 .header-container{
